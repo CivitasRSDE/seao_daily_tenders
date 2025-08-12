@@ -27,8 +27,8 @@ from sql_alchemy import AoInfos, Base
 load_dotenv()
 
 # engine = create_engine("postgresql://seao_user:wac321@localhost:5432/seao_db")
-engine = create_engine("postgresql://postgres:Wac3212013%40@localhost:5432/seaodb")
-# engine = create_engine(os.getenv('DB_URL'))
+# engine = create_engine("postgresql://postgres:Wac3212013%40@localhost:5432/seaodb")
+engine = create_engine(os.getenv('DB_URL'))
 Base.metadata.create_all(engine)
 Session = sessionmaker(bind=engine)
 session = Session()
