@@ -18,17 +18,17 @@ def get_yesterday_ao(db_url):
     yesterday = str(datetime.now().date() - timedelta(days=1))
     # yesterday = str(datetime.now().date())
     engine = create_engine(db_url)
-    query = f"""
-            SELECT * FROM ao_infos
-            WHERE date_publication BETWEEN '2025-08-07' AND '2025-08-10'  
-            AND is_pertinent = true 
-            ORDER BY pourcentage_pertinence DESC
-  """
 #     query = f"""
-#           SELECT * FROM ao_infos
-#           WHERE date_publication = '{yesterday}' AND is_pertinent = true
-#           ORDER BY pourcentage_pertinence DESC
-# """
+#             SELECT * FROM ao_infos
+#             WHERE date_publication BETWEEN '2025-08-07' AND '2025-08-10'  
+#             AND is_pertinent = true 
+#             ORDER BY pourcentage_pertinence DESC
+#   """
+    query = f"""
+          SELECT * FROM ao_infos
+          WHERE date_publication = '{yesterday}' AND is_pertinent = true
+          ORDER BY pourcentage_pertinence DESC
+"""
     
     df = pd.read_sql(query, engine)
     return df
@@ -139,8 +139,8 @@ def send_outlook_email(sender_email, sender_password, recipient_email, df_tender
     </html>
     """
     msg = MIMEMultipart('alternative')
-    msg['Subject'] = f'Veille des marchés publics entre 2025-08-07 et 2025-08-10'
-    # msg['Subject'] = f'Veille des marchés publics en date du {(datetime.now().date() - timedelta(days=1))}'
+    # msg['Subject'] = f'Veille des marchés publics entre 2025-08-07 et 2025-08-10'
+    msg['Subject'] = f'Veille des marchés publics en date du {(datetime.now().date() - timedelta(days=1))}'
     # msg['Subject'] = f'Veille des marchés publics en date du {(datetime.now().strftime("%Y-%m-%d"))}'
     msg['From'] = sender_email
     msg['To'] = recipient_email
@@ -163,7 +163,8 @@ def send_outlook_email(sender_email, sender_password, recipient_email, df_tender
 
 def main():
     try:
-        db_url = "postgresql://postgres:Wac3212013%40@localhost:5432/seaodb"
+        #db_url = "postgresql://postgres:Wac3212013%40@localhost:5432/seaodb"
+        db_url = "postgresql://seao_user:Wac321@localhost:5432/seao_db"
         df_tenders = get_yesterday_ao(db_url)
         
         if len(df_tenders) == 0:
