@@ -1,0 +1,6 @@
+pandas
+selenium
+python-dotenv
+SQLAlchemy
+google-generativeai
+psycopg2-binary
