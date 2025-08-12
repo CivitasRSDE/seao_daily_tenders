@@ -27,8 +27,8 @@ from sql_alchemy import AoInfos, Base
 load_dotenv()
 
 # engine = create_engine("postgresql://seao_user:wac321@localhost:5432/seao_db")
-# engine = create_engine("postgresql://postgres:Wac3212013%40@localhost:5432/seaodb")
-engine = create_engine(os.getenv('DB_URL'))
+engine = create_engine("postgresql://postgres:Wac3212013%40@localhost:5432/seaodb")
+# engine = create_engine(os.getenv('DB_URL'))
 Base.metadata.create_all(engine)
 Session = sessionmaker(bind=engine)
 session = Session()
@@ -305,6 +305,7 @@ options.add_argument(
 options.add_argument("--disable-blink-features=AutomationControlled")
 try:
     driver = webdriver.Chrome(options=options)
+    driver.get(base_url)
 except Exception as e:
     print(f"Chrome failed, trying chromium: {e}")
     options.binary_location = "/usr/bin/chromium-browser"
