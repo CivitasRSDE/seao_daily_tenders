@@ -25,8 +25,8 @@ from utils import (
 import google.generativeai as genai
 from sql_alchemy import AoInfos, Base
 
-engine = create_engine("postgresql://seao_user:wac321@localhost:5432/seao_db")
-#engine = create_engine("postgresql://postgres:Wac3212013%40@localhost:5432/seaodb")
+# engine = create_engine("postgresql://seao_user:wac321@localhost:5432/seao_db")
+engine = create_engine("postgresql://postgres:Wac3212013%40@localhost:5432/seaodb")
 Base.metadata.create_all(engine)
 Session = sessionmaker(bind=engine)
 session = Session()
@@ -283,13 +283,32 @@ def run(driver):
 
 options = webdriver.ChromeOptions()
 options.add_argument("--headless")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--disable-gpu")
+options.add_argument("--disable-web-security")
+options.add_argument("--disable-features=VizDisplayCompositor")
+options.add_argument("--remote-debugging-port=9222")
+options.add_argument("--user-data-dir=/tmp/chrome-user-data")
+options.add_argument("--single-process")
+options.add_argument("--disable-background-timer-throttling")
+options.add_argument("--disable-backgrounding-occluded-windows")
+options.add_argument("--disable-renderer-backgrounding")
+options.add_argument("--disable-extensions")
+options.add_argument("--disable-plugins")
+options.add_argument("--disable-default-apps")
+options.add_argument("--window-size=1920,1080")
 options.add_argument(
     "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 )
 options.add_argument("--disable-blink-features=AutomationControlled")
-driver = webdriver.Chrome(options=options)
-driver.get(base_url)
+try:
+    driver = webdriver.Chrome(options=options)
+except Exception as e:
+    print(f"Chrome failed, trying chromium: {e}")
+    options.binary_location = "/usr/bin/chromium-browser"
+    driver = webdriver.Chrome(options=options)
+    driver.get(base_url)
 time.sleep(5)
 
 if __name__ == "__main__":
