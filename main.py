@@ -304,13 +304,7 @@ options.add_argument(
     "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 )
 options.add_argument("--disable-blink-features=AutomationControlled")
-try:
-    driver = webdriver.Chrome(options=options)
-except Exception as e:
-    print(f"Chrome failed, trying chromium: {e}")
-    options.binary_location = "/usr/bin/chromium-browser"
-    driver = webdriver.Chrome(options=options)
-    driver.get(base_url)
+driver = webdriver.Chrome(options=options)
 time.sleep(5)
 
 if __name__ == "__main__":
