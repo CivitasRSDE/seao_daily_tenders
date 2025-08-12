@@ -206,6 +206,7 @@ model = genai.GenerativeModel(
 def run(driver):
     try:
         logging.info("Starting the web scraping process.")
+        driver.get(base_url)
         avis_du_jour_data = get_clickable_numbers(driver)
         print(avis_du_jour_data)
         logging.info("Retrieved clickable numbers.")
@@ -305,7 +306,6 @@ options.add_argument(
 options.add_argument("--disable-blink-features=AutomationControlled")
 try:
     driver = webdriver.Chrome(options=options)
-    driver.get(base_url)
 except Exception as e:
     print(f"Chrome failed, trying chromium: {e}")
     options.binary_location = "/usr/bin/chromium-browser"
