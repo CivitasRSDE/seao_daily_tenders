@@ -6,6 +6,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.chrome.service import Service
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -14,7 +15,7 @@ import json
 import os
 from datetime import datetime
 import datetime as dt
-from dotenv import load_dotenv
+import tempfile
 from utils import (
     extract_ao_details,
     get_clickable_numbers,
@@ -291,7 +292,11 @@ options.add_argument(
     "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 )
 options.add_argument("--disable-blink-features=AutomationControlled")
-driver = webdriver.Chrome(options=options)
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+profile_dir = tempfile.mkdtemp()
+options.add_argument(f"--user-data-dir={profile_dir}")
+driver = webdriver.Chrome(service=Service(), options=options)
 driver.get(base_url)
 time.sleep(5)
 
