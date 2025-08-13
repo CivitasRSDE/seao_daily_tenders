@@ -1,0 +1,708 @@
+[
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Hors des domaines d'expertise de Groupe Civitas.  L'appel d'offres concerne la fourniture de quincaillerie aérospatiale, ce qui n'est pas lié à nos services d'ingénierie, d'arpentage, de géomatique ou d'aménagement du territoire.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "27-936P",
+      "titre": "Fourniture sur demande de quincaillerie d'aérospatiale EMAM"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Hors du champ d'expertise de Groupe Civitas.  L'appel d'offres concerne la fourniture de matériel de câblage, ce qui n'est pas lié à nos services d'ingénierie, d'arpentage, d'aménagement du territoire, ou de géomatique.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "27-935P",
+      "titre": "Fourniture sur demande du matériel de câblage en aérospatiale - EMAM"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Hors du champ d'expertise de Groupe Civitas (achat d'équipement sportif).  La catégorie 'Ameublement' et la classification 'Mobilier commercial ou industriel' ne correspondent pas à nos services.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "25-001",
+      "titre": "Achat d'équipements salle de sport - École secondaire Aux-Mille-Voix"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Hors de notre champ d'expertise (ameublement).  Ne correspond pas à nos services d'ingénierie, d'arpentage ou de géomatique.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "92114",
+      "titre": "Fourniture et installation de panneaux acoustiques et de mobilier"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": "",
+    "motifExclusion": "Hors du champ d'expertise de Groupe Civitas (achat d'équipement sportif).  Ne correspond à aucun de nos services.",
+    "disciplinePrincipale": "",
+    "source": {
+      "numero": "25-003",
+      "titre": "ACHAT D'ÉQUIPEMENTS SALLE DE SPORT - ÉCOLE SECONDAIRE IRMA-LEVASSEUR"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Localisation (Saguenay–Lac-Saint-Jean) exclue selon la stratégie actuelle de l'entreprise. Hors de notre zone d'opération habituelle.  De plus, le projet concerne l'installation de systèmes de sécurité, ce qui ne correspond pas à nos domaines d'expertise.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "397",
+      "titre": "Système de bouton panique"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Hors des catégories visées par Groupe Civitas.  Achat de véhicules et non services d'ingénierie, arpentage ou autres services connexes. De plus, la localisation (Nord-du-Québec) est exclue de notre zone d'intervention actuelle.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "01-401-00104",
+      "titre": "Achat de 3 camionnettes neuves 0.5 tonne"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Cet appel d'offres concerne l'acquisition d'un camion.  Groupe Civitas n'achète pas de véhicules, mais offre des services d'ingénierie, d'arpentage, et d'aménagement du territoire. La catégorie \"Équipement de transport et pièces de rechange\" ne correspond pas à nos activités.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "AO 21037",
+      "titre": "Acquisition d'un camion à cabine conventionnelle avec plateforme et système de chargement"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "L'appel d'offres concerne la location de véhicules, ce qui ne correspond pas aux services offerts par Groupe Civitas (géomatique, arpentage, ingénierie, infrastructures urbaines, transport/circulation, aménagement du territoire). De plus, le projet est situé en Abitibi-Témiscamingue, une région généralement exclue.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "TPU-210225",
+      "titre": "Contrat annuel de location de véhicules légers - 2025"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "L'appel d'offres concerne la location d'équipement (rouleau compacteur), ce qui est hors du champ d'expertise et des services offerts par Groupe Civitas.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "8908-25-AP01",
+      "titre": "8908-25-AP01 - Location d'un rouleau compacteur en acier sans opérateur pour le Centre de services de Campbell's Bay"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour fourniture médicale (ventilateurs), hors du champ d'expertise de Groupe Civitas.  De plus, la localisation (Ville de Québec) est généralement exclue.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "H25-0110GMA",
+      "titre": "Ventilateur de transport pour transports médicaux héliportés (TMH)"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Hors du champ d'expertise de Groupe Civitas (acquisition de matériel médical). La catégorie 'Instruments scientifiques' ne correspond pas à nos services.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "AP-2024-8526-002-AOP",
+      "titre": "Acquisition de 6 générateurs de rayon X"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "CR-EP-25-01",
+      "titre": "FOURNITURE DE COMPTEURS D’EAU ET D’UN SYSTÈME DE RELÈVE AUTOMATISÉ PAR COMMUNICATION CELLULAIRE"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour l'achat d'équipement (rétrocaveuse), non pertinent pour les services offerts par Groupe Civitas. Hors de nos disciplines et catégories visées. De plus, la localisation (Abitibi-Témiscamingue) est généralement exclue.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "2025-01",
+      "titre": "Achat d'une rétrocaveuse neuve année 2023 ou plus récente"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "L'appel d'offres concerne l'acquisition d'un bateau à faucarder, ce qui est hors du champ d'expertise de Groupe Civitas.  Nous ne sommes pas impliqués dans la vente ou l'achat d'équipement nautique.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "2025-001-STH",
+      "titre": "Acquisition d'un bateau à faucarder"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Cet appel d'offres concerne la fourniture de matériaux (fonte), ce qui ne correspond pas aux services offerts par Groupe Civitas. Nous ne sommes pas un fournisseur de matériaux de construction.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "AO 21090",
+      "titre": "Fourniture et livraison de couvercles de regard, de cadres et autres produit de fonte"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour la fourniture de matériel, pas pour des services d'ingénierie ou d'arpentage.  Hors du champ d'expertise de Groupe Civitas.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "STE-2025-01-03",
+      "titre": "Achat matériel d'infrastructures"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Catégorie 'Matériaux de construction' et classification 'Tuyaux' ne correspondent pas à nos services.  Il s'agit de fourniture de matériaux, et non de services d'ingénierie ou d'arpentage. De plus, l'appel d'offres concerne uniquement la fourniture, et non la conception ou la construction.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "SP-250103",
+      "titre": "Fourniture sur demande d'accessoires pour conduites d'aqueduc et d'égouts pour une période de 12 mois"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour du matériel de bureau (plieuse-inséreuse), hors du champ d'expertise de Groupe Civitas.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "700001845",
+      "titre": "Location d'une plieuse-inséreuse"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Hors de nos domaines d'expertise (approvisionnement en moteurs hors-bord).",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "2025-01-21",
+      "titre": "Approvisionnement en moteurs hors-bord - Saisons 2025-2026"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Localisation (Gaspésie–Îles-de-la-Madeleine est hors de notre zone d'opération actuelle) et catégorie (Produit fini ne correspond pas à nos services).  Bien que l'aménagement d'un pumptrack puisse impliquer certains aspects de nos services (aménagement du territoire, infrastructures urbaines), le projet est principalement axé sur la construction clé en main, ce qui ne correspond pas à notre expertise principale.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "20250122",
+      "titre": "Appel d'offres pour la conception et la construction d'un pumptrack"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour l'acquisition d'étiquettes. Hors du champ d'expertise de Groupe Civitas (géomatique, arpentage, ingénierie, infrastructures, transport, aménagement).",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "CO2025-2064-AOP",
+      "titre": "Acquisition d'étiquettes"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour la fourniture d'uniformes. Hors du champ d'expertise de Groupe Civitas (géomatique, arpentage, ingénierie, infrastructures, transport, aménagement).",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "DS2025-002-03",
+      "titre": "FOURNITURES D'UNIFORME - GESTIONNAIRES PREMIER NIVEAU ET CONTREMAÎTRES"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Cet appel d'offres concerne la fourniture et l'installation de grues sur des camions.  Ce n'est pas en lien avec les services offerts par Groupe Civitas (ingénierie, arpentage, géomatique, etc.).  Il s'agit d'un appel d'offres pour l'achat de biens et services liés à l'équipement, et non pour des services d'ingénierie ou d'arpentage.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "25-20857",
+      "titre": "Fourniture et installation de grues articulées télescopiques avec bennes basculantes sur des châssis de camion fournis par la Ville - Service du matériel roulant et des ateliers"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour l'acquisition d'un tracteur, hors du champ d'expertise de Groupe Civitas.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "BED20250227",
+      "titre": "Acquisition d'un tracteur versatile utilitaire"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Hors de notre champ d'expertise (achat de véhicule) et hors de notre zone d'intervention géographique (Nord-du-Québec).",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "01-401-00103",
+      "titre": "Achat d'un véhicule balai mécanique (aspirateur de rues) neuf"
+    }
+  },
+  {
+    "pertinent": true,
+    "motifPertinence": "Projet d'infrastructure municipale (marquage de chaussée) dans une région que nous couvrons (Laurentides).  Correspond à nos services en Infrastructures Urbaines et Génie Routier.",
+    "motifExclusion": null,
+    "disciplinePrincipale": "infrastructures urbaines et génie routier",
+    "source": {
+      "numero": "TP2024-037",
+      "titre": "Marquage de la chaussée"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "44540891",
+      "titre": "Entretien planifié des équipements mécaniques et électriques pour divers immeubles aux Îles-de-la-Madeleine"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Localisation hors zone d'intérêt (Sainte-Christine-d'Auvergne) et le projet est trop petit/local pour nos ressources.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "SCA-25-02",
+      "titre": "Mise aux normes de la piscine municipale"
+    }
+  },
+  {
+    "pertinent": true,
+    "motifPertinence": "Projet de réfection d'infrastructures municipales (marquage de chaussée et stationnements) en Montérégie, correspondant à notre domaine d'intervention en Infrastructures Urbaines et Génie Routier.",
+    "motifExclusion": null,
+    "disciplinePrincipale": "infrastructures urbaines et génie routier",
+    "source": {
+      "numero": "AO-25-02-P",
+      "titre": "Fourniture de services pour le marquage de la chaussée et des stationnements municipaux pour l’année 2025 avec une année d’option."
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Ce projet concerne la manutention et l'installation de mobilier de bureau, ce qui ne correspond pas aux services offerts par Groupe Civitas (ingénierie, arpentage, géomatique, etc.).  De plus, la couverture géographique est trop large et inclut des régions que nous excluons généralement (Saguenay, Abitibi, etc.).",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "CRW93959",
+      "titre": "Manutention installation de mobilier dans les bureaux de la Société"
+    }
+  },
+  {
+    "pertinent": true,
+    "motifPertinence": "Appel d'offres pour l'inventaire et l'état des bâtiments, ce qui correspond à nos services d'ingénierie du bâtiment (Fonds de prévoyance (Loi 16), carnet d’entretien) et potentiellement en infrastructures urbaines. La localisation est dans une région que nous couvrons (Montérégie).",
+    "motifExclusion": null,
+    "disciplinePrincipale": "ingénierie du bâtiment",
+    "source": {
+      "numero": "2025-04",
+      "titre": "Services professionnels – Inventaire et élaboration d’un carnet de santé des bâtiments municipaux"
+    }
+  },
+  {
+    "pertinent": true,
+    "motifPertinence": "Appel d'offres pour plans et devis, surveillance, réfection d'infrastructures municipales (poste de pompage, carré, avenue) incluant génie civil.  Localisation dans les Laurentides, acceptable pour nos succursales.",
+    "motifExclusion": null,
+    "disciplinePrincipale": "ingénierie",
+    "source": {
+      "numero": "2024-2270",
+      "titre": "Services professionnels pour les plans et devis ainsi que la surveillance dans le cadre des travaux de réfection des infrastructures incluant le poste de pompage de la rue Gilles, du carré Dubois et de la 9e avenue"
+    }
+  },
+  {
+    "pertinent": true,
+    "motifPertinence": "Projet d'ingénierie pour la modernisation d'infrastructures municipales (complexe aquatique) à Montréal, incluant conception, construction et services consultatifs. Correspond à nos domaines d'expertise en Infrastructures Urbaines et Génie Routier et en Ingénierie du Bâtiment.",
+    "motifExclusion": null,
+    "disciplinePrincipale": "ingénierie",
+    "source": {
+      "numero": "20250123PUBSP",
+      "titre": "Services professionnels en ingénierie pour les phases de conception et d’exécution du projet de modernisation des installations du Complexe aquatique"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres axé sur les études géotechniques et caractérisations environnementales, domaines explicitement exclus pour le génie (ex: études géotechniques pour laboratoires).",
+    "disciplinePrincipale": "ingénierie",
+    "source": {
+      "numero": "ING-SP-2025-020",
+      "titre": "Services professionnels pour la réalisation d'études géotechniques et de caractérisations environnementales pour différentes rues de la Ville de Saint-Colomban"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Localisation hors zone cible (Saint-Georges est à l'est de Québec) et potentiellement axé architecture plus qu'ingénierie (bien que mentionnant plans et devis et surveillance).",
+    "disciplinePrincipale": "ingénierie",
+    "source": {
+      "numero": "SP-241030",
+      "titre": "Fourniture de services professionnels pour les plans, devis et surveillance des travaux - Réaménagement terrain de baseball"
+    }
+  },
+  {
+    "pertinent": true,
+    "motifPertinence": "Projet d'infrastructure municipale (ajout de glace au Colisée) en Montérégie (St-Jean-sur-Richelieu), impliquant génie civil et services d'ingénierie. Correspond à nos services d'infrastructures urbaines et génie routier, et potentiellement ingénierie du bâtiment.",
+    "motifExclusion": null,
+    "disciplinePrincipale": "ingénierie",
+    "source": {
+      "numero": "SA-24-TP-0275",
+      "titre": "Services professionnels équipe multidisciplinaire - Ajout d'une 2e glace au Colisée Isabelle-Brasseur"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "AO-03-2025",
+      "titre": "Services professionnels en ingénierie pour la réfection des infrastructures de diverses rues pour l'année 2025"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "AOP2425001",
+      "titre": "Services d'agents de sécurité et de gardiennage"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "25-20827",
+      "titre": "Fourniture, plantation et entretien d'arbres pour l'arrondissement de Saint-Léonard"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour des services de soutien professionnel et administratif (analyse d'affaires, transformation organisationnelle) qui ne correspondent pas aux services offerts par Groupe Civitas (géomatique, arpentage, ingénierie, infrastructures, transport, aménagement).",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "703101259",
+      "titre": "Transformation organisationnelle IVAC"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "2025-01-TP",
+      "titre": "Taux horaire pour la location de machineries et/ou d'équipements avec opérateurs et camions pour le transport de la neige"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "92059",
+      "titre": "Collecte de porte en porte et transport des ordures et des résidus verts"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "AO-5030",
+      "titre": "Services professionnels pour la gestion de sols contaminés"
+    }
+  },
+  {
+    "pertinent": true,
+    "motifPertinence": "Projet d'ingénierie lié à la gestion des eaux et à la réduction des risques d'inondation, ce qui correspond à notre expertise en infrastructures urbaines et aménagement du territoire. La localisation dans l'Outaouais est acceptable.",
+    "motifExclusion": null,
+    "disciplinePrincipale": "ingénierie",
+    "source": {
+      "numero": "MRCC 2025-470-001",
+      "titre": "Service professionnel étude hydraulique"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Le mot-clé \"audit\" est explicitement exclu dans les règles de filtrage pour les appels d'offres d'ingénierie. La description confirme qu'il s'agit d'un audit.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "VERIF-2025",
+      "titre": "Service d'audit pour la production d’un rapport de surveillance du cadre organisationnel de gestion des risques en matière de corruption et de collusion"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "AOP-2025-01-SNT-TP",
+      "titre": "Balayage de voies publiques et stationnements municipaux"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "STE-2025-01-07",
+      "titre": "Location de machinerie pour le balayage des rues"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "SP-2025-001",
+      "titre": "Nettoyage de rues - Balais aspirateur"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "VAL-347",
+      "titre": "SERVICES DE COLLECTE ET DE TRANSPORT DES MATIÈRES RECYCLABLES"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "445007569",
+      "titre": "Travaux d’aménagement et d’installation informatique de bureaux et de salles"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "n. d.",
+      "titre": "n. d."
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "n. d.",
+      "titre": "n. d."
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "n. d.",
+      "titre": "n. d."
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Ce projet porte sur des travaux de maçonnerie et de calfeutrage, ce qui ne correspond pas à nos services d'ingénierie ou d'arpentage.  Il s'agit de travaux de construction, et non de services d'ingénierie liés à la conception, la planification ou la surveillance.  De plus, le mot \"travaux\" dans la catégorie de l'appel d'offres suggère qu'il s'agit d'un appel d'offres pour des entrepreneurs en construction.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "2025-003-AO-DGI",
+      "titre": "Travaux de maçonnerie et remplacement du calfeutrage au 3055, rue Delisle à Montréal"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "IMM-210325",
+      "titre": "Construction d'un centre aquatique à Rouyn-Noranda"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "2025-2272",
+      "titre": "Service d’entretien préventif et correctif des systèmes mécaniques des bâtiments municipaux"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "RM-2025-003",
+      "titre": "Réfection de la toiture et réfection du hall d'issue - École Des Vieux-Moulins"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "202400704",
+      "titre": "Rénovation de l’enveloppe extérieure – Phase 8 à l'EMOICQ"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifPertinence": null,
+    "motifExclusion": "Appel d'offres pour travaux de plomberie et tuyautage, ce qui ne correspond pas à nos services d'ingénierie ou d'arpentage.  Orienté spécifiquement vers des entrepreneurs spécialisés en plomberie.",
+    "disciplinePrincipale": null,
+    "source": {
+      "numero": "AOP25TUY",
+      "titre": "Contrat à exécution sur demande pour divers travaux de plomberie et de tuyautage"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "3006-1732",
+      "titre": "Construction CPE Couri-Courette"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "24-197 - 040214646",
+      "titre": "Rénovation du bloc sportif, Mise à niveau CVCA & entrée électrique, réfection des plafonds et des appareils d’éclairage - École Martin-Bélanger, édifice Martin"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "2023019-3-JL",
+      "titre": "Démolition d'une ancienne usine"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "SP-2025-002",
+      "titre": "Construction de trottoirs en béton sur divers tronçons"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "19",
+      "titre": "Construction de 2 nouvelles cellules au LET de St-Lambert-de-Lauzon"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "2025-02",
+      "titre": "Réfection de trottoirs et de bordures dans l'arrondissement de L’Île-Bizard – Sainte-Geneviève"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "2025TP03 - AOP",
+      "titre": "Travaux de pavage de différentes rues"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "ING-SP-2025-009",
+      "titre": "Reconstruction partielle de la rue Bédard (entre le 327, rue Bédard et la rue Sonia)"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "6407-25-0001",
+      "titre": "6407-25-0001 - Contrat à exécution sur demande d'asphaltage de transitions à l'enrobé bitumineux pour le Centre de services de Victoriaville (Mauricie-Centre-du-Québec)."
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "140-05-24 - Construction",
+      "titre": "Réfection du quai - secteur Deschambault"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "SRC-SGN 2025-001",
+      "titre": "Conception et construction d'une plage urbaine au parc de la Commune"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "9103-25-1101",
+      "titre": "9103-25-1101 - Contrat à la suite de la qualification en structures complexes, selon les listes en vigueur au dépôt de la soumission pour la construction de la structure P-19746, au-dessus du ruisseau l'Africain (Saint-Édouard-de-Fabre)"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "DDG 2025-04",
+      "titre": "Planage et pavage de la rue Sherbrooke entre l’avenue Lelièvre et le boulevard Joseph-Versailles et sur diverses autres rues"
+    }
+  },
+  {
+    "pertinent": false,
+    "motifExclusion": "Erreur technique",
+    "disciplinePrincipale": "erreur",
+    "source": {
+      "numero": "KIA-25-01",
+      "titre": "LOCATION-ACQUISITION D’UN CHARGEUR SUR ROUES"
+    }
+  }
+]

@@ -163,8 +163,8 @@ def send_outlook_email(sender_email, sender_password, recipient_email, df_tender
 
 def main():
     try:
-        #db_url = "postgresql://postgres:Wac3212013%40@localhost:5432/seaodb"
-        db_url = "postgresql://seao_user:Wac321@localhost:5432/seao_db"
+        db_url = "postgresql://postgres:Wac3212013%40@localhost:5432/seaodb"
+        # db_url = "postgresql://seao_user:Wac321@localhost:5432/seao_db"
         df_tenders = get_yesterday_ao(db_url)
         
         if len(df_tenders) == 0:
