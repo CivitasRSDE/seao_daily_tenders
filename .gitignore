@@ -1,0 +1,47 @@
+# Fichiers sensibles
+.env
+seao_password.txt
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebooks
+*.ipynb
+
+# Fichiers logs
+*.log
+
+# Fichiers Word temporaires
+~$*.docx
+
+# Répertoire docs et contenu
+docs/
+
+# Répertoire jsons et contenu
+jsons/
+
+# Fichiers Excel et CSV
+*.xlsx
+*.csv
+
+# Node modules et dépendances JS
+node_modules/
+package-lock.json
+package.json
+
+# Répertoire prompt_versioning
+prompt_versioning/
+
+# Scripts batch
+*.bat
+
+# Projet streamlit (dossier entier)
+streamlit/
+
+# Autres fichiers spécifiques
+main.ipynb
+market_intel/
+scaping.ipynb
+src/similarity_embeddings.xlsx
