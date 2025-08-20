@@ -84,7 +84,7 @@ def format_tender_email(row):
     """
     return html_template
 
-def send_outlook_email(sender_email, sender_password, recipient_email, df_tenders):
+def send_outlook_email(sender_email, sender_password, recipient_emails, df_tenders):
     #smtp_server = "smtp.gmail.com"
     smtp_server = "smtp.office365.com"
     smtp_port = 587
@@ -143,14 +143,14 @@ def send_outlook_email(sender_email, sender_password, recipient_email, df_tender
     msg['Subject'] = f'Veille des marchés publics en date du {(datetime.now().date() - timedelta(days=1))}'
     # msg['Subject'] = f'Veille des marchés publics en date du {(datetime.now().strftime("%Y-%m-%d"))}'
     msg['From'] = sender_email
-    msg['To'] = recipient_email
+    msg['To'] = ", ".join(recipient_emails)
     msg.attach(MIMEText(html_content, 'html'))
     
     try:
         server = smtplib.SMTP(smtp_server, smtp_port)
         server.starttls()
         server.login(sender_email, sender_password)
-        server.send_message(msg)
+        server.send_message(msg, to_addrs=recipient_emails)
         print("Email sent successfully")
         
     except Exception as e:
@@ -176,7 +176,7 @@ def main():
         send_outlook_email(
             sender_email=os.getenv('OUTLOOK_EMAIL'),
             sender_password=os.getenv('OUTLOOK_PASSWORD'),
-            recipient_email=os.getenv('RECIPIENT_EMAIL'),
+            recipient_emails=os.getenv('RECIPIENT_EMAIL').split(','),
             df_tenders=df_tenders
         )
         
